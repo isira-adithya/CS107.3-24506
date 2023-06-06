@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\23052023 - Lab Session\23052023 - Lab Session\bin\Debug\23052023 - Lab Session.exe.config
+C:\Users\User\source\repos\23052023 - Lab Session\23052023 - Lab Session\bin\Debug\23052023 - Lab Session.exe
+C:\Users\User\source\repos\23052023 - Lab Session\23052023 - Lab Session\bin\Debug\23052023 - Lab Session.pdb
+C:\Users\User\source\repos\23052023 - Lab Session\23052023 - Lab Session\obj\Debug\23052023 - Lab Session.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\23052023 - Lab Session\23052023 - Lab Session\obj\Debug\23052023 - Lab Session.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\23052023 - Lab Session\23052023 - Lab Session\obj\Debug\23052023 - Lab Session.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\23052023 - Lab Session\23052023 - Lab Session\obj\Debug\23052023 - Lab Session.exe
+C:\Users\User\source\repos\23052023 - Lab Session\23052023 - Lab Session\obj\Debug\23052023 - Lab Session.pdb
