@@ -23,7 +23,6 @@ namespace _23052023___Lab_Session
 
         public double kilometerToMeter(double kmValue)
         {
-            Console.WriteLine(kmValue + " km = " + (kmValue * 1000) + " m");
             return kmValue * 1000;
         }
     }
